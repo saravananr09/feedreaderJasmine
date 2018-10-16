@@ -12,6 +12,6 @@
   
            **OR**
            
-               click the following link to open my project!!!
+               copy the following link to open my project!!!
  
                   https://vanansa.github.io/feedreaderJasmine/
